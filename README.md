@@ -30,15 +30,11 @@
 ## 🌐 Connect with me 
 <p align="center">
 <a href = "https://www.linkedin.com/in/bhashith/" target="blank">
-[![my_portfolio](https://github.com/usbzonelk/usbzonelk/blob/main/assets/img/linkedin.svg)]</a>
+<img src="https://raw.githubusercontent.com/usbzonelk/usbzonelk/main/assets/img/linkedin.svg" /></a>
 <a href="mailto:bhashith.me@gmail.com" target="blank">
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 50 50">
-<path d="M12 23.403V23.39 10.389L11.88 10.3h-.01L9.14 8.28C7.47 7.04 5.09 7.1 3.61 8.56 2.62 9.54 2 10.9 2 12.41v3.602L12 23.403zM38 23.39v.013l10-7.391V12.41c0-1.49-.6-2.85-1.58-3.83-1.46-1.457-3.765-1.628-5.424-.403L38.12 10.3 38 10.389V23.39zM14 24.868l10.406 7.692c.353.261.836.261 1.189 0L36 24.868V11.867L25 20l-11-8.133V24.868zM38 25.889V41c0 .552.448 1 1 1h6.5c1.381 0 2.5-1.119 2.5-2.5V18.497L38 25.889zM12 25.889L2 18.497V39.5C2 40.881 3.119 42 4.5 42H11c.552 0 1-.448 1-1V25.889z"></path>
-</svg></a>
+<img src="https://raw.githubusercontent.com/usbzonelk/usbzonelk/main/assets/img/gmail.svg" /></a>
 <a href="https://t.me/bhashith_me" target="blank">
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="48" height="48" viewBox="0 0 50 50">
-<path d="M46.137,6.552c-0.75-0.636-1.928-0.727-3.146-0.238l-0.002,0C41.708,6.828,6.728,21.832,5.304,22.445	c-0.259,0.09-2.521,0.934-2.288,2.814c0.208,1.695,2.026,2.397,2.248,2.478l8.893,3.045c0.59,1.964,2.765,9.21,3.246,10.758	c0.3,0.965,0.789,2.233,1.646,2.494c0.752,0.29,1.5,0.025,1.984-0.355l5.437-5.043l8.777,6.845l0.209,0.125	c0.596,0.264,1.167,0.396,1.712,0.396c0.421,0,0.825-0.079,1.211-0.237c1.315-0.54,1.841-1.793,1.896-1.935l6.556-34.077	C47.231,7.933,46.675,7.007,46.137,6.552z M22,32l-3,8l-3-10l23-17L22,32z"></path>
-</svg></a>
+<img src="https://raw.githubusercontent.com/usbzonelk/usbzonelk/main/assets/img/telegram.svg" /></a>
 </p> 
   
   ## 🛠️ My Skills 
