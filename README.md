@@ -94,7 +94,7 @@
 </p>
 
 </br>
-----
+------
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usbzonelk&theme=blue-green&layout=compact" height="192px"/>
@@ -110,7 +110,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usbzonelk&theme=blue_green)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=usbzonelk&theme=blue_green) -->
 
----
+-----
 
 # My Github Status 📊
 ![Metrics](https://metrics.lecoq.io/usbzonelk?template=classic&followup=1&achievements=1&activity=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=38&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FColombo)
