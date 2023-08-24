@@ -58,13 +58,6 @@
   </a>
 </p>
 
-<h3 align="center"><b><i>ORM </i></b></h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=hibernate" />
-  </a>
-</p>
-
 <h3 align="center"><b><i>Database  </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
