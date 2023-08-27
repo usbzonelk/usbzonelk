@@ -88,6 +88,12 @@
   </a>
 </p>
 
+<h3 align="center"><b><i>Content Delivery & Security </i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=cloudflare" />
+  </a>
+</p>
 </br>
 
 <div align="center">
@@ -109,5 +115,5 @@
 
 </br>
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/usbzonelk/shopper?logo=github&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/usbzonelk/usbzonelk?logo=github&style=for-the-badge"/>
 </p>
