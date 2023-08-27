@@ -63,7 +63,7 @@
 <h3 align="center"><b><i>Operating Systems </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=linux,windows" />
+   <img src="https://skillicons.dev/icons?i=linux" />
   </a>
 </p>
 
