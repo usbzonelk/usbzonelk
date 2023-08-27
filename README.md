@@ -39,45 +39,52 @@
   
   ## 🛠️ My Skills 
   
-<h3 align="center"><b><i>Language Stack </i></b></h3>
+<h3 align="center"><b><i>Languages </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=html,css,javascript,php,c,python," />
   </a>
 </p>
 
-<h3 align="center"><b><i>Frameworks and Libraries </i></b></h3>
+<h3 align="center"><b><i>Frontend Frameworks </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=nodejs,react,redux,bootstrap,materialui," />
+   <img src="https://skillicons.dev/icons?i=react,redux,next" />
   </a>
 </p>
 
-<h3 align="center"><b><i>Database  </i></b></h3>
+<h3 align="center"><b><i>Back-End Frameworks </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=mysql,mongo, " />
+   <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
 </p>
 
-<h3 align="center"><b><i>IDEs and Design Tools </i></b></h3>
+<h3 align="center"><b><i>Back-End Databases </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=figma,xd,idea,vscode" />
+   <img src="https://skillicons.dev/icons?i=mongo,mysql" />
   </a>
 </p>
 
-<h3 align="center"><b><i>API Platform, Servers and Cloud Computing</i></b></h3>
+<h3 align="center"><b><i>API & Data Querying </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=postman" />
+   <img src="https://skillicons.dev/icons?i=graphql" />
   </a>
 </p>
 
-<h3 align="center"><b><i>Version Control Software</i></b></h3>
+<h3 align="center"><b><i>Cloud Services </i></b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+   <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+  </a>
+</p>
+
+<h3 align="center"><b><i>DevOps & Tools </i></b></h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=docker,git,bash,powershell,github" />
   </a>
 </p>
 
@@ -99,12 +106,8 @@
 
 -----
 
-# My Github Status 📊
-![Metrics](https://metrics.lecoq.io/usbzonelk?template=classic&followup=1&achievements=1&activity=1&people=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=38&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FColombo)
-</br>
-
 
 </br>
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/usbzonelk/usbzonelk?logo=github&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/last-commit/usbzonelk/shopper?logo=github&style=for-the-badge"/>
 </p>
